@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name"> তথ্য সমগ্র </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_me">About Us</string>
+    <string name="action_search">Search</string>
+    <string name="step1"> সাধারণ জ্ঞানের ১ম ধাপ  </string>
+    <string name="step2"> সাধারণ জ্ঞানের ২য় ধাপ  </string>
+    <string name="step3"> সাধারণ জ্ঞানের ৩য় ধাপ  </string>
+    <string name="step4"> সাধারণ জ্ঞানের ৪র্থ ধাপ  </string>
+    <string name="step5"> সাধারণ জ্ঞানের ৫ম ধাপ  </string>
+    <string name="step6"> সাধারণ জ্ঞানের ৬ষ্ট ধাপ  </string>
+    <string name="step7"> সাধারণ জ্ঞানের ৭ম ধাপ  </string>
+    <string name="step8"> সাধারণ জ্ঞানের ৮ম ধাপ  </string>
+    <string name="step9"> সাধারণ জ্ঞানের ৯ম ধাপ  </string>
+    <string name="step10"> সাধারণ জ্ঞানের ১০ম ধাপ  </string>
+    <string name="bangladesh"> বাংলাদেশ  </string>
+    <string name="scienceANDtechnology"> বিজ্ঞান ও প্রযুক্তি  </string>
+    <string name="international"> আন্তর্জাতিক  </string>
+    <string name="sports"> খেলাধুলা  </string>
+    <string name="cricket"> ক্রিকেট  </string>
+    <string name="football"> ফুটবল  </string>
+    <string name="abbrebiation"> পূর্ণ নামকরণ   </string>
+    <string name="mcq"> নৈবেত্তিক প্রশ্ন সমূহ </string>
+    <string name="mcq1"> প্রশ্ন ১  </string>
+    <string name="mcq2"> প্রশ্ন ২  </string>
+    <string name="mcq3"> প্রশ্ন ৩  </string>
+    <string name="mcq4"> প্রশ্ন ৪  </string>
+    <string name="mcq5"> প্রশ্ন ৫ </string>
+    <string name="mcq6"> প্রশ্ন ৬  </string>
+    <string name="mcq7"> প্রশ্ন ৭  </string>
+    <string name="mcqResult"> ফলাফল  </string>
+    <string name="others"> অন্যান্য  </string>
+    <string name="ad_unit_id">ca-app-pub-8413013568972526/7288372290</string>
+
+</resources>

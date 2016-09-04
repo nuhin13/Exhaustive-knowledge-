@@ -1,0 +1,11 @@
+<GridView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mcq"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/blar"
+    android:columnWidth="200dp"
+    android:gravity="center"
+    android:horizontalSpacing="10dp"
+    android:numColumns="2"
+    android:stretchMode="columnWidth"
+    android:verticalSpacing="10dp" />

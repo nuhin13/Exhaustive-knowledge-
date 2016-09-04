@@ -1,0 +1,186 @@
+﻿১.   HTTP = Hyper Text Transfer Protocol
+
+২.   WWW = World Wide Web
+
+৩.   RAM = Random Access Memory
+
+৪.   ROM = Read Only Memory
+
+৫.   RADAR = Radio Detection And Ranging(একে ইলেক্ট্রনিকস চক্ষু বলা হয়)
+
+৬.   CNG = Compressed Natural Gas
+
+৭.   LAN = Local Area Network
+
+৮.   LED = Light Emitting Diode
+
+৯.   OMR = Optical Mark Reader
+
+১০.  VIRUS = Vital Information Resources Under Seize
+
+১১.  IFC = International Finance Corporations
+
+১২.  FIFA = Federation of International Football Association
+
+১৩.  GNH = Gross National Happiness
+
+১৪.  MICR = Magnetic Ink character Recognition
+
+১৫.  GOOGLE = Global Organization of Oriented Group Language of Earth
+
+১৬.  YAHOO = Yet another Hierarchical Officious Oracle
+
+১৭.  WINDOW = Wide Interactive Network Development for Office work Solution
+
+১৮.  COMPUTER = Common Oriented Machine Particularly United and used under Technical and Educational Research
+
+১৯.  UMTS = Universal Mobile Telecommunications System
+
+২০.  AMOLED = Active-matrix organic light- emitting diode
+
+২১.  OLED = Organic light-emitting diode
+
+২২.  IMEI = International Mobile Equipment Identity
+
+২৩.  ESN = Electronic Serial Number
+
+২৪.  UPS = Uninterruptible power supply
+
+২৫.  HDMI = High-Definition Multimedia Interface
+
+২৬.  VPN = Virtual private network
+
+২৭.  APN = Access Point Name
+
+২৮.  SIM = Subscriber Identity Module
+
+২৯.  LED = Light emitting diode
+
+৩০.  DLNA = Digital Living Network Alliance
+
+৩১.  VGA = Video Graphics Array
+
+৩২.  QVGA = Quarter Video Graphics Array
+
+৩৩.  WVGA = Wide video graphics array
+
+৩৪.  WXGA = Wide-screen Extended Graphics Array
+
+৩৫.  USB = Universal serial Bus
+
+৩৬.  WLAN = Wireless Local Area Network
+
+৩৭.  PPI = Pixels Per Inch
+
+৩৮.  LCD = Liquid Crystal Display
+
+৩৯.  HSDPA = High speed down-link packet access
+
+৪০.  HSUPA = High-Speed Uplink Packet Access
+
+৪১.  HSPA = High Speed Packet Access
+
+৪২.  GPRS = General Packet Radio Service
+
+৪৩.  EDGE = Enhanced Data Rates for Global Evolution
+
+৪৪.  NFC = Near field communication
+
+৪৫.  OTG = On-the-go
+
+৪৬.  S-LCD = Super Liquid Crystal Display
+
+৪৭.  O.S. = Operating system
+
+৪৮.  SNS = Social network service
+
+৪৯.  H.S = HOTSPOT
+
+৫০.  P.O.I = Point of interest
+
+৫১.  GPS = Global Positioning System
+
+৫২.  GPS = Global Positioning System
+
+৫৩.  DVD = Digital Video Disk
+
+৫৪.  DTP = Desk top publishing
+
+৫৫.  DNSE = Digital natural sound engine
+
+৫৬.  OVI = Ohio Video Intranet
+
+৫৭.  CDMA = Code Division Multiple Access
+
+৫৮.  WCDMA = Wide-band Code Division Multiple Access
+
+৫৯.  GSM = Global System for Mobile Communications
+
+৬০.  WI-FI = Wireless Fidelity
+
+৬১.  DIVX = Digital internet video access
+
+৬২.  APK = Authenticated public key
+
+৬৩.  J2ME = Java 2 micro edition
+
+৬৪.  SIS = Installation source
+
+৬৫.  DELL = Digital electronic link library
+
+
+৬৬.  ACER = Acquisition Collaboration Experimentation Reflection
+
+৬৭.  RSS = Really simple syndication
+
+৬৮.  TFT = Thin film transistor
+
+৬৯.  AMR = Adaptive Multi-Rate
+
+৭০.  MPEG = moving pictures experts group
+
+৭১.  IVRS = Interactive Voice Response System
+
+৭২.  HP = Hewlett Packard
+
+৭৩.  NATO = North Atlantic Treaty Organization
+
+৭৪.  CTBT = Comprehensive Nuclear Test Ban Treaty
+
+৭৫.  B.A = Bachelor of Arts
+
+৭৬.  B.Sc = Bachelor of Science
+
+৭৭.  M.A = Master of Arts
+
+৭৮.  M.B.A = Master of Business Administration
+
+৭৯.  MBBS = Medicine Baccalaureus, Baccalaureus Chirurgical - Bachelor of Medicine, Bachelor of Surgery  
+
+৮০.  MD = Medicine Doctor - Doctor of Medicine
+
+৮১.  PhD = Philosophy Doctor - Doctorate of Philosophy
+
+৮২.  TOEFL = Test of English as a Foreign Language
+
+৮৩.  TESOL = Teaching English to Speakers of Other Languages
+
+৮৪.  TESL = Teaching English as a Second Language
+
+৮৫.  SAT = Scholastic Assessment (Aptitude) Test - pre-university entrance exam in the USA
+
+৮৬.  SAE = Standard American English
+
+৮৭.  GRE = Graduate Record Examination - an evaluation test for graduate admission to colleges and universities in the U.S
+
+৮৮.  GMAT = Graduate Management Admission Test. The GMAT measures general verbal, mathematical, and analytical writing skills
+
+৮৯.  BAAL = British Association of Applied Linguistics
+
+৯০.  AAAL = American Association for Applied Linguistics
+
+৯১.  FBI = Federal Bureau of Investigation
+
+৯২.  NASA = National Aeronautics and Space Administration
+
+

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.nuhin13.ExhaustiveKnowledge"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon2"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <!-- This meta-data tag is required to use Google Play Services. -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+       <!--  <activity android:name="com.nuhin13.ExhaustiveKnowledge.Splash" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity> -->
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.step1"
+            android:label="@string/step1" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.step2"
+            android:label="@string/step2" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.step3"
+            android:label="@string/step3" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.step4"
+            android:label="@string/step4" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.step5"
+            android:label="@string/step5" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.step6"
+            android:label="@string/step6" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.step7"
+            android:label="@string/step7" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.step8"
+            android:label="@string/step8" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.step9"
+            android:label="@string/step9" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.step10"
+            android:label="@string/step10" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.bangladesh"
+            android:label="@string/bangladesh" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.international"
+            android:label="@string/international" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.abbrebiation"
+            android:label="@string/abbrebiation" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.mcq"
+            android:label="@string/mcq" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.mcq1"
+            android:label="@string/mcq1" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.mcq2"
+            android:label="@string/mcq2" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.mcq3"
+            android:label="@string/mcq3" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.mcq4"
+            android:label="@string/mcq4" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.mcq5"
+            android:label="@string/mcq5" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.mcq6"
+            android:label="@string/mcq6" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.mcq7"
+            android:label="@string/mcq7" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.mcq_result"
+            android:label="@string/mcqResult" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.cricket"
+            android:label="@string/cricket" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.football"
+            android:label="@string/football" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.others"
+            android:label="@string/mcqResult" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.sports"
+            android:label="@string/sports" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.scienceANDtechnology"
+            android:label="@string/scienceANDtechnology" >
+        </activity>
+        <activity
+            android:name="com.nuhin13.ExhaustiveKnowledge.Credit"
+            android:label="@string/app_name" >
+        </activity>
+
+        <!-- Include the AdActivity configChanges and theme. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+    </application>
+
+</manifest>
